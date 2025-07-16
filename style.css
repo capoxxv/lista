@@ -57,6 +57,9 @@ a{
     color: rgb(98, 98, 98);
 }
 
+.container p{
+    color: black;    
+}
 
 .img-container img {
     padding: 0;
